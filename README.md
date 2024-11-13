@@ -1,2 +1,2 @@
-# CS4337-CNN
-CS4337-CNN Assignment 2
+# CS4287-CNN
+CS4287-CNN Assignment 2
