@@ -6,3 +6,6 @@
 - Train both a frozen and unfrozen versions of each model and compare there results
 - Compare InceptionV3 vs ResNet-50 using cross fold validation (K-Fold)
 - Compare Hyperparameters for each model to find the best parameters
+
+
+[Collab link](https://colab.research.google.com/github/CraigPhayer/CS4287-CNN/blob/main/CS4287_Assign2_21340633_21332967.ipynb) as jupyter notebook wont fully load on github
